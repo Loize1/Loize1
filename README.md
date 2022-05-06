@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loize1
-- 👀 I have a degree in Biological Sciences and I am really interested about entrepreneurship, tecnology and social movements
-- 🌱 I’m currently learning about programming in Python
+- 👀 I'm a Biologist and I'm currently doing a degree in Data Science. I am really interested about entrepreneurship, tecnology and social movements
+- 🌱 I’m learning about programming in Python, Big Data and Databases
 - 💞️ I’m looking to collaborate on projects involving data analysis
 - 📫 How to reach me: My LinkedIn https://www.linkedin.com/in/loize-santos-bb315b163/
 
