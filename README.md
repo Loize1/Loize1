@@ -3,6 +3,8 @@
 - 🌱 I’m learning about programming in Python, Big Data and Databases
 - 💞️ I’m looking to collaborate on projects involving data analysis
 - 📫 How to reach me: My LinkedIn https://www.linkedin.com/in/loize-santos-bb315b163/
+- My pronoums: He/She/They
+- Meus pronomes: Ele/Ela
 
 <!---
 Loize1/Loize1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
