@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Loize1
-- 👀 I'm a Biologist and I'm currently doing a degree in Data Science. I am really interested about entrepreneurship, tecnology and social movements
-- 🌱 I’m learning about programming in Python, Big Data and Databases
-- 💞️ I’m looking to collaborate on projects involving data analysis
+- 👋 Hi, I’m Loize
+- 👀 I'm a Biologist and Data Scientist. I am really interested about entrepreneurship, project management, tecnology and social movements
+- 🌱 I’m currently studying about web development and data analysis
+- 💞️ So, if you want to collaborate on projects involving these themes, count on with me!
 - 📫 How to reach me: My LinkedIn https://www.linkedin.com/in/loize-santos-bb315b163/
 - My pronoums: He/She/They
-- Meus pronomes: Ele/Ela
+- Meus pronomes: Ele/Ela/Elu
 
 <!---
 Loize1/Loize1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
